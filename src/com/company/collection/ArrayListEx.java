@@ -2,7 +2,7 @@ package com.company.collection;
 
 import java.util.Collections;
 
-public class ArrayList {
+public class ArrayListEx {
     public static void main(String[] args) {
         java.util.ArrayList listOne = new java.util.ArrayList(10);
 

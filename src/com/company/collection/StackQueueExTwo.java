@@ -18,7 +18,7 @@ public class StackQueueExTwo {
                 //화면으로부터 라인단위로 입력 받는다.
                 Scanner scanner = new Scanner(System.in);
                 String input = scanner.nextLine().trim();
-//System.out.println("llll");
+
                 if ("".equals(input)) continue;
 
                 if (input.equalsIgnoreCase("q")) {
